@@ -1,0 +1,21 @@
+YAGPT
+=====
+Yet another gdb python API tutorial.
+This demo code aims to show how to replace gdb shell-like interface
+ with something that is more programming language like.
+Because a gdb script just feels like a shell script.
+
+Features
+--------
+* seamlessly attach/detach from a running process
+* more readable & modular than gdb
+* practicing some dynamic library loading trickery no-one should ever user
+* fast (just kidding)
+
+Licence
+-------
+MIT, if you need one
+
+RTFM for reference
+------------------
+https://sourceware.org/gdb/onlinedocs/gdb/Python-API.html
